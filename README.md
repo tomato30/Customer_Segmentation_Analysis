@@ -45,17 +45,20 @@ Features used:
 
 5. Customer Segmentation
 
-   * VIP Customers
-   * Loyal Customers
-   * Potential Customers
-   * Lost Customers
+![](/ClusterGroup.png)
+   * VIP Customers --> Cluster 2
+   * Loyal Customers --> Cluster 0
+   * Potential Customers --> Cluster 3
+   * Lost Customers --> Cluster 1
 
 ---
 
 ## Visualizations
 
-* Customer distribution across clusters
-* Customer segmentation scatter plot
+### Customer distribution across segments
+![](/customer_distribution.png)
+### Customer segmentation scatter plot
+![](/segmentation_scatter.png)
 
 ---
 
